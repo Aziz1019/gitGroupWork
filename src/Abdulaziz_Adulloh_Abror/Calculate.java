@@ -5,4 +5,8 @@ public class Calculate {
     public void multiply(int n, int n2){
         System.out.println(n * n2);
     }
+    // Add by Abdulaziz
+    public void add(int n, int n2){
+        System.out.println(n + n2);
+    }
 }

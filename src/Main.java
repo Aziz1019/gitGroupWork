@@ -5,5 +5,6 @@ public class Main {
         System.out.println("This is group work Git Project.");
         Calculate calculate = new Calculate();
         calculate.multiply(5, 6);
+        calculate.add(5, 6);
     }
 }
