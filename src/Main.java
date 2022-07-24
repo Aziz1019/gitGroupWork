@@ -6,5 +6,6 @@ public class Main {
         Calculate calculate = new Calculate();
         calculate.multiply(5, 6);
         calculate.add(5, 6);
+        calculate.subtraction(3,1);
     }
 }

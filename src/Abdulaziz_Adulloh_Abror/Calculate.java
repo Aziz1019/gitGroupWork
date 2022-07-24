@@ -9,4 +9,9 @@ public class Calculate {
     public void add(int n, int n2){
         System.out.println(n + n2);
     }
+
+    public void subtraction(int n, int n2){
+        System.out.println(n+n2);
+        //ayiradigan method
+    }
 }
