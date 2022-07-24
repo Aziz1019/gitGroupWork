@@ -14,4 +14,7 @@ public class Calculate {
         System.out.println(n+n2);
         //ayiradigan method
     }
+    public void tobe(int n,int n2){
+        System.out.println(n/n2);
+    }
 }
